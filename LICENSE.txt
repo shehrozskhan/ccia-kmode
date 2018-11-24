@@ -1,0 +1,5 @@
+The program files in this distribution are free software; you can redistribute it and/or modify it for research purposes only. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of EFFICIENCY or MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. The user may use it at his own risk and the authors are not responsible for any kind of damage incurred. 
+
+Authors: Shehroz S. Khan - May 2012
+Address: University of Waterloo, Canada
+Contact: s255khan@uwaterloo.ca
