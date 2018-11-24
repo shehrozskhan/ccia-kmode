@@ -26,6 +26,12 @@ If eclipse is not used then the following line can be removed from the top
 
 package initCategorical;
 
+**Dependency**
+This package is tested using Weka-3-9-2, the corresponding jar can be obtained from the following hyperlinks:
+
+https://www.cs.waikato.ac.nz/ml/weka/downloading.html
+
+**Citation**
 If you use this code for your research publication, please cite the following paper
 
 @article{khan2013cluster,
