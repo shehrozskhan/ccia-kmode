@@ -11,17 +11,23 @@ This distribution contains three java files:
 
 There are two things that needs to be set before executing the initiKmodeProm.java or testKmode.java
 - The path of source file name. The file name should be in arff format
+
   String targetDir = "//home/shehroz//workspace//Clustering//data//";  //Directory name
-  String inputFile =  targetDir+"soybean-small.arff"; //input file name
+
+String inputFile =  targetDir+"soybean-small.arff"; //input file name
 		
 - The number of clusters in the data. It can be done by altering this line 
+
   initkm.setK(N);//number of clusters
+
   where N is the number of clusters in the data
 
 If eclipse is not used then the following line can be removed from the top
+
 package initCategorical;
 
 If you use this code for your research publication, please cite the following paper
+
 @article{khan2013cluster,
   title={Cluster center initialization algorithm for K-modes clustering},
   author={Khan, Shehroz S and Ahmad, Amir},
